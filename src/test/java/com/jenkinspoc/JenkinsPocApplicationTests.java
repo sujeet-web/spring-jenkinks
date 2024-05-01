@@ -15,6 +15,7 @@ class JenkinsPocApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test case executing......");
+		logger.info("Test case executing second changes......");
 		assertEquals(true, true);
 	}
 

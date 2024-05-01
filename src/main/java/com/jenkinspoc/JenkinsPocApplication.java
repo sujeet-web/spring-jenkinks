@@ -14,7 +14,7 @@ public class JenkinsPocApplication {
 
 	@PostConstruct
 	public void intt() {
-		logger.info("Application started successfully.....#####");
+		logger.info("Application started successfully.....*****");
 	}
 
 	public static void main(String[] args) {
